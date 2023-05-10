@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://MarksMultiverse.github.io/Blog/blogs/</loc>
+    <loc>http://MarksMultiverse.com/blogs/</loc>
     <lastmod>2023-05-10T12:21:20+02:00</lastmod>
   </url><url>
-    <loc>http://MarksMultiverse.github.io/Blog/</loc>
+    <loc>http://MarksMultiverse.com/</loc>
     <lastmod>2023-05-10T12:21:20+02:00</lastmod>
   </url><url>
-    <loc>http://MarksMultiverse.github.io/Blog/blogs/test/</loc>
+    <loc>http://MarksMultiverse.com/blogs/test/</loc>
     <lastmod>2023-05-10T12:21:20+02:00</lastmod>
   </url><url>
-    <loc>http://MarksMultiverse.github.io/Blog/categories/</loc>
+    <loc>http://MarksMultiverse.com/categories/</loc>
   </url><url>
-    <loc>http://MarksMultiverse.github.io/Blog/tags/</loc>
+    <loc>http://MarksMultiverse.com/tags/</loc>
   </url>
 </urlset>
