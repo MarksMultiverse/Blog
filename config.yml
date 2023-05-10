@@ -84,7 +84,7 @@ params:
 
     socialIcons:
         - name: LinkedIn
-          ulr: "https://www.linkedin.com/in/marktilleman"
+          url: "https://www.linkedin.com/in/marktilleman"
         - name: github
           url: "https://github.com/MarksMultiverse"
         - name: KoFi
